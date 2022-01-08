@@ -1,0 +1,51 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+main{
+  width:840px;
+  margin:50px auto;
+}
+
+.header-image{
+  background-image:url(img/mv.jpg);
+  height:400px;
+  background-size:cover;
+  background-position:bottom;
+  padding-bottom:20px;
+}
+
+.header-text{
+  padding:20px;
+  color:gray;
+}
+
+.coment1{
+  width:840px;
+  margin-bottom:30px;
+  border-bottom:1px solid gray;
+  padding-bottom:30px;
+}
+
+.coment2{
+  width:840px;
+  margin-bottom:30px;
+  border-bottom:1px solid gray;
+  padding-bottom:30px;
+}
+
+.coment3{
+  width:840px;
+  margin-bottom:30px;
+  border-bottom:1px solid gray;
+  padding-bottom:30px;
+}
+
+.coment4{
+  width:840px;
+  margin-bottom:30px;
+  border-bottom:1px solid gray;
+  padding-bottom:30px;
+}
